@@ -1,6 +1,4 @@
 import React from "react";
-import Skills from '../layouts/Skills'
-import { skillsBar } from '../../profile'
 
 const Skill = () => {
     return (

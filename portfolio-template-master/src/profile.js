@@ -20,7 +20,7 @@ const background = {
 const section2title = "About Me";
 const about = {
   paragraph:
-    "Hey! 😄 My name is Kalpana Tamatam from India. I'm passionate programmer and enthusiastic developer with a keen interest in software development and Coompetitive Programming. My love towards web developement made me to build and apply algorithms to solve real-world problems.",
+    "Hey there! My name is Kalpana Tamatam from India. I'm passionate programmer and enthusiastic developer with a keen interest in software development and Coompetitive Programming.",
 };
 // Edit your skill and the percentage you know about it
 // To Add a skill, copy any one below and paste it after the last comma
@@ -78,14 +78,14 @@ const projects = [
     id: "project1",
     name: "Project 1",
     skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    url: "https://github.com/kalpana123-1",
   },
   {
     // Add image in './styles/images.css' in #project2
     id: "project2",
     name: "Project 2",
     skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    url: "https://github.com/kalpana123-1",
   },
 ];
 // Edit your Miscellaneous Activities, its name and the url.

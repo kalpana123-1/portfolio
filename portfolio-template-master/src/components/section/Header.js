@@ -3,14 +3,6 @@ import HeaderButton from '../layouts/HeaderButton';
 
 const Header = () => {
 
-    const scrollTo = () => {
-        window.scrollTo({
-            top: 100000,
-            left: 0,
-            behavior: "smooth"
-        })
-    }
-
     const toggleDarkMode = (e) =>  {
         document.documentElement.classList.toggle('dark-mode')
         document.getElementById('not-dark').classList.toggle('inverse-dark')
@@ -37,7 +29,6 @@ const Header = () => {
             </label>
             <HeaderButton/>
             </div>
-            <img id="not-dark" onClick={scrollTo} className="gtp"></img>
         </div>
     )
     
